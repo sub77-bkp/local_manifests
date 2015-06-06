@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="sub" fetch="ssh://git@github.com" />
+
+  <project path="packages/apps/OpenCamera" name="sub77-bkp/android_packages_apps_OpenCamera" remote="sub" revision="cm-12.1"/>
+
+  <project path="device/samsung/matissewifi" name="sub77-bkp/android_device_samsung_matissewifi" remote="sub" revision="master"/>
+  <project path="device/samsung/matisse3g" name="sub77-bkp/android_device_samsung_matisse3g" remote="sub" revision="master"/>
+  <project path="device/samsung/matisselte" name="sub77-bkp/android_device_samsung_matisselte" remote="sub" revision="master"/>
+
+  <project path="device/samsung/msm8226-common" name="sub77-bkp/android_device_samsung_msm8226-common" remote="sub" revision="master"/>
+
+  <project path="kernel/samsung/matissewifi" name="sub77-bkp/android_kernel_samsung_matissewifi" remote="sub" revision="master"/>
+
+  <project path="vendor/samsung/matissewifi" name="sub77-bkp/android_vendor_samsung_matissewifi" remote="sub" revision="master"/>
+  <project path="vendor/samsung/matisse3g" name="sub77-bkp/android_vendor_samsung_matisse3g" remote="sub" revision="master"/>
+  <project path="vendor/samsung/matisselte" name="sub77-bkp/android_vendor_samsung_matisselte" remote="sub" revision="master"/>
+
+  <project path="device/samsung/qcom-common" name="Cyanogenmod/android_device_samsung_qcom-common" remote="github" revision="cm-12.1"/>
+  <project path="device/qcom/common" name="Cyanogenmod/android_device_qcom_common" remote="github" revision="cm-12.1"/>
+  <project path="hardware/samsung" name="Cyanogenmod/android_hardware_samsung" remote="github" revision="cm-12.1"/>
+
+
+</manifest>
