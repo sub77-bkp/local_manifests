@@ -1,0 +1,12 @@
+<manifest>
+
+  <!-- Device Trees -->
+  <project name="sub77-bkp/android_device_samsung_matissewifi" path="device/samsung/matissewifi" remote="github" revision="f-aosp" />
+  <!-- samsung MSM8226 -->
+  <project name="sub77-bkp/android_device_samsung_msm8226-common" path="device/samsung/msm8226-common" remote="github" revision="f-aosp" />
+  <project name="sub77-bkp/android_kernel_samsung_matissewifi" path="kernel/samsung/matissewifi" remote="github" revision="f-aosp" />
+  <project name="sub77-bkp/android_vendor_samsung_matissewifi" path="vendor/samsung/matissewifi" remote="github" revision="f-aosp" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.1" />
+  <project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" revision="cm-12.1" />
+
+</manifest>
