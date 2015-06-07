@@ -6,6 +6,7 @@
   <project name="sub77-bkp/android_device_samsung_msm8226-common" path="device/samsung/msm8226-common" remote="github" revision="f-aosp" />
   <project name="sub77-bkp/android_kernel_samsung_matissewifi" path="kernel/samsung/matissewifi" remote="github" revision="f-aosp" />
   <project name="sub77-bkp/android_vendor_samsung_matissewifi" path="vendor/samsung/matissewifi" remote="github" revision="f-aosp" />
+  <project name="SlimRoms/device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lp5.1" />
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" revision="cm-12.1" />
 
