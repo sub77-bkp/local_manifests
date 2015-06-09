@@ -4,6 +4,9 @@
   <remote name="sub" fetch="ssh://git@github.com" />
 
 <remove-project name="platform/external/openssh" />
+<remove-project name="CyanogenMod/android_external_pcre" />
+  <project path="external/sshfs" name="sub77-bkp/android_external_sshfs" remote="sub" revision="cm-12.1"/>
+  <project path="external/glib" name="sub77-bkp/android_external_sshfs" remote="sub" revision="cm-12.1"/>
 
   <project path="packages/apps/OpenDelta" name="sub77-bkp/android_packages_apps_OpenDelta" remote="sub" revision="blisspop"/>
   <project path="packages/apps/OpenCamera" name="sub77-bkp/android_packages_apps_OpenCamera" remote="sub" revision="master"/>
