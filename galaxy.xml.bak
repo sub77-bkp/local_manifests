@@ -4,16 +4,13 @@
   <remote name="sub" fetch="ssh://git@github.com" />
 
 
-
+<!--
   <project path="device/samsung/meliusltexx" name="sub77-bkp/android_device_samsung_meliusltexx" remote="sub" revision="cm-12.1"/>
   <project path="device/samsung/melius-common" name="sub77-bkp/android_device_samsung_melius-common" remote="sub" revision="cm-12.1"/>
-<!--
+
   <project path="device/samsung/msm8226-common" name="sub77-bkp/android_device_samsung_msm8226-common" remote="sub" revision="lp5.1"/>
   <project path="kernel/samsung/matissewifi" name="sub77-bkp/android_kernel_samsung_matissewifi" remote="sub" revision="lp5.1"/>
   <project path="vendor/samsung/matissewifi" name="sub77-bkp/android_vendor_samsung_matissewifi" remote="sub" revision="lp5.1"/>
-
-  <project path="device/samsung/qcom-common" name="Cyanogenmod/android_device_samsung_qcom-common" remote="github" revision="cm-12.1"/>
-  <project path="device/qcom/common" name="Cyanogenmod/android_device_qcom_common" remote="github" revision="cm-12.1"/>
 -->
 
 </manifest>

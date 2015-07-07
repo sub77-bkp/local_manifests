@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="sub" fetch="ssh://git@github.com" />
+
+  <project path="device/samsung/i9100" name="TeamBliss-Devices/android_device_samsung_i9100" remote="github" revision="cm-12.1"/>
+  <project path="kernel/samsung/smdk4412" name="TeamBliss-Devices/android_kernel_samsung_smdk4412" remote="github" revision="lp5.0"/>
+  <project path="device/samsung/galaxys2-common" name="TeamBliss-Devices/android_device_samsung_galaxys2-common" remote="github" revision="cm-12.1"/>
+
+</manifest>
