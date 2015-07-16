@@ -1,0 +1,18 @@
+<manifest>
+  <remote name="sub" fetch="ssh://git@github.com" />
+
+  <project path="external/exfat" name="CyanogenMod/android_external_exfat" />
+  <project path="external/ntfs-3g" name="CyanogenMod/android_external_ntfs-3g" />
+
+
+  <!-- Device Trees -->
+  <project name="sub77-bkp/android_device_samsung_matissewifi"	path="device/samsung/matissewifi" 	remote="sub" revision="aosparadox" />
+  <project name="sub77-bkp/slim_kernel_samsung_matisse" 	path="kernel" 				remote="sub" revision="aosparadox" />
+  <project name="sub77-bkp/android_vendor_samsung_matissewifi"	path="vendor/samsung/matissewifi" 	remote="sub" revision="aosparadox" />
+
+  <!--MSM8226 
+  <project name="sub77-bkp/android_device_samsung_msm8226-common" path="device/qcom/msm8226" 	remote="sub" 	revision="aosparadox" />
+  <project name="sub77-bkp/android_device_samsung_qcom-common" path="device/qcom/common" 	remote="sub" 	revision="aosparadox" />
+-->
+
+</manifest>
